@@ -27,5 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - run: ls
-      - run: pwd
-      - run: ls $GITHUB_WORKSPACE
+

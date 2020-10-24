@@ -1,1 +1,1 @@
-# text-localization
+# Age of Wushu Text Localization
